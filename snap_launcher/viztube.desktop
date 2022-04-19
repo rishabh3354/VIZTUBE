@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+GenericName=viztube
+Name=VIZTUBE
+Type=Application
+Icon=viztube.png
+Keywords=youtube downloader;video downloader;music downloader;playlist downloader;full HD downloader;audio downloader; youtube; youtube music;
+Exec=viztube %F
+Categories=Utility;Qt;
+Terminal=false
+Name[en_US]=VIZTUBE
