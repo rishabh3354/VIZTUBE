@@ -38,15 +38,15 @@ and run
 
 ## Screenshots of VIZTUBE
 
-![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/main/share/screenshots/viztube-warlordsoftwares_1.jpg?raw=true)
+![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/master/share/screenshots/viztube-warlordsoftwares_1.jpg?raw=true)
 
-![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/main/share/screenshots/viztube-warlordsoftwares_2.jpg?raw=true)
+![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/master/share/screenshots/viztube-warlordsoftwares_2.jpg?raw=true)
 
-![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/main/share/screenshots/viztube-warlordsoftwares_3.jpg?raw=true)
+![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/master/share/screenshots/viztube-warlordsoftwares_3.jpg?raw=true)
 
-![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/main/share/screenshots/viztube-warlordsoftwares_4.jpg?raw=true)
+![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/master/share/screenshots/viztube-warlordsoftwares_4.jpg?raw=true)
 
-![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/main/share/screenshots/viztube-warlordsoftwares_5.jpg?raw=true)
+![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/master/share/screenshots/viztube-warlordsoftwares_5.jpg?raw=true)
 
 
 **Keywords:**
