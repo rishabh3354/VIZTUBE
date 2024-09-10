@@ -1,56 +1,58 @@
-**APP NOTE :#**
+**APP NOTICE:**
 
-IF APP IS NOT LAUNCHING AFTER INSTALL, THEN RUN CMD BELOW IN YOUR SHELL
+If the app is not launching after installation, run the following commands in your terminal:
 
-    sudo snap remove viztube --purge;sudo snap remove pyqt5-runtime-core20 --purge;sudo snap install pyqt5-runtime-core20;sudo snap install viztube;viztube
+    sudo snap remove viztube --purge; sudo snap remove pyqt5-runtime-core20 --purge; sudo snap install pyqt5-runtime-core20; sudo snap install viztube; viztube
 
+**ABOUT VIZTUBE:**
 
-**ABOUT APPLICATION :**
+VIZTUBE is a powerful **YouTube video downloader** that enables you to download **videos, playlists, music, and audio** from YouTube and other popular platforms in **HD resolution**. Now supporting **35+ languages**, it's the ideal solution for your video downloading needs.
 
-VIZTUBE is a Powerful Application For Downloading **YouTube Videos, Playlists, Music And Online Videos/Audios From The Internet** in HD Resolutions.
+**Key Features:**
 
-
-**FEATURES :** 
-
- - Download **YouTube Videos in one Click** with Different Formats.
- - Download **YouTube Whole Playlist** in one Click. 
- - Download **YouTube Music Audio** in one Click.
- - Download **Generic Online Website Video & Audio** in one Click.
- - Download **Facebook Videos/Audio** in one Click.
- - Download **Instagram Videos/Audio** in one Click.
- - Download **TikTok Videos/Audio** in one Click.
- - Download **Rumble Videos/Audio** in one Click.
- - Download **Odysee Videos/Audio** in one Click.
- - Download **Bitchute Videos/Audio** in one Click.
- - Download **Twitter Videos/Audio** in one Click.
- - Download **Twitch Videos/Audio** in one Click.
- - Download **ArteTV Videos/Audio** in one Click.
- - Download **Fandom Videos/Audio** in one Click.
- - **Batch Download** Support For Multiple Videos In one Click
- - **Stream/Play YouTube Videos** Online Without Download.
- - Supports YouTube **Subtitles and CC Download**. 
- - YouTube **Search Suggestion** For Search Whole YouTube
- - Audio/Videos Complete **100% Ads Free** Online Stream **NO ADS**.
- - YouTube Search In The App with **Regional Country Support**.
+- Download **video/audio** from websites such as **Facebook, Instagram, TikTok, Rumble, Odysee, Bitchute, Twitter, Twitch, ArteTV**, and more.
+- **Download YouTube videos/music** in various formats with just one click.
+- **Download entire YouTube playlists** in one click.
+- **Batch download** multiple videos with a single click.
+- **Stream and play YouTube videos** directly online without downloads.
+- Supports **YouTube subtitles and closed captions (CC)** download.
+- YouTube search integration with **regional country support**.
+- Completely **ad-free** online streaming experience.
+- Available in **35+ international languages**.
 
 
-**NOTE  #1**
+## Install VIZTUBE on Linux Desktop:
 
-ubuntu-restricted-extras package allows users to install ability to play popular non-free media formats, including DVD, MP3, Quicktime, and Windows Media formats. without this you would not be able to play videos inside the app.
+**SNAP PACKAGE**
 
-    sudo apt-get install ubuntu-restricted-extras
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/viztube)
 
-**NOTE  #2**  
+Install with command-line
 
-If CPU Temp is not Coming/not accurate in the System Monitor, then run below command in your Terminal/Shell.
+`snap install viztube`
 
-    sudo snap connect viztube:hardware-observe
+and run
 
-Info: Some features might be paid in the app. App includes InApp purchase.
-
-**KEYWORDS:** 
-
-*SnapDownloader, YTD Video Downloader, By Click Downloader, Allavsoft, VideoHunter, Youtube to mp3, dl youtube, snaptube, youtube dl, ktube, utube, redtube, video downloader, VideoSolo Inovideo, MP3 Studio, Leawo, iTubeGo, 4K Video Downloader, VideoProc, Y2mate, SaveFrom, Youtube Download, SaveMedia, Addoncrop YouTube Video Downloader, Youtube Video Downloader, BitDownloader,  y2mate application, y2mate 2k, y2mate desktop, youtube dashboard y2mate, xvideos downloader, xhamster downloader, xnxx downloader, tube8 downloader, y2mate playlist, y2mate io, clipgrab, Facebook downloader, Instagram downloader, Tiktok downloader, Youtube shots downloader, Rumble video downloader, All file downloader, Snapchat downloader, linkedin video downloader, SoundCloud Downloader, espn videos Downloader, yahoo video Downloader, reddit video Downloader, wikimedia and wikipedia video Downloader, brighteono video downloader *
+`viztube`
 
 
----------------------------------------------------------------------------------------------------------------------------------------------
+## Screenshots of VIZTUBE
+
+![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/main/share/screenshots/viztube-warlordsoftwares_1.jpg?raw=true)
+
+![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/main/share/screenshots/viztube-warlordsoftwares_2.jpg?raw=true)
+
+![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/main/share/screenshots/viztube-warlordsoftwares_3.jpg?raw=true)
+
+![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/main/share/screenshots/viztube-warlordsoftwares_4.jpg?raw=true)
+
+![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/main/share/screenshots/viztube-warlordsoftwares_5.jpg?raw=true)
+
+
+**Keywords:**
+
+*YTD Video Downloader, SnapTube, By Click Downloader, Allavsoft, VideoHunter, YouTube to MP3, Download YouTube, SnapDownloader, , YouTube DL, KTUBE, UTube, RedTube, Video Downloader, VideoSolo Inovideo, MP3 Studio, Leawo, iTubeGo, 4K Video Downloader, VideoProc, Y2mate, SaveFrom, YouTube Download, SaveMedia, Addoncrop YouTube Video Downloader, YouTube Video Downloader, BitDownloader, y2mate application, y2mate 2k, y2mate desktop, YouTube dashboard y2mate, Xvideos Downloader, Xhamster Downloader, Xnxx Downloader, Tube8 Downloader, Y2mate playlist, Clipgrab, Facebook Video Downloader, Instagram Downloader, TikTok Downloader, YouTube Shorts Downloader, Rumble Video Downloader, Snapchat Downloader, LinkedIn Video Downloader, SoundCloud Downloader, ESPN Videos Downloader, Yahoo Video Downloader, Reddit Video Downloader, Wikimedia and Wikipedia Video Downloader, Brighteon Video Downloader.*
+
+**Hashtags:**
+
+#YouTubeDownloader #DownloadYouTubeVideos #HDVideoDownloader #MP3Downloader #VideoDownloaderApp #YouTubePlaylistDownloader #OnlineVideoDownloader #DownloadYouTubeAudio #4KVideoDownloader #FreeVideoDownloader #SnapDownloader #DownloadFacebookVideos #InstagramDownloader #TikTokDownloader #RumbleDownloader #BatchVideoDownload #YouTubeMusicDownloader #NoAdsVideoDownloader #SubtitlesDownloader #YouTubeSearchApp
