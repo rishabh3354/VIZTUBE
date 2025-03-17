@@ -1,17 +1,12 @@
-**APP NOTICE:**
-
-If the app is not launching after installation, run the following commands in your terminal:
-
-    sudo snap remove viztube --purge; sudo snap remove pyqt5-runtime-core20 --purge; sudo snap install pyqt5-runtime-core20; sudo snap install viztube; viztube
-
 **ABOUT VIZTUBE:**
 
 VIZTUBE is a powerful **YouTube video downloader** that enables you to download **videos, playlists, music, and audio** from YouTube and other popular platforms in **HD resolution**. Now supporting **35+ languages**, it's the ideal solution for your video downloading needs.
 
-**Key Features:**
+**FEATURES:**
 
 - Download **video/audio** from websites such as **Facebook, Instagram, TikTok, Rumble, Odysee, Bitchute, Twitter, Twitch, ArteTV**, and more.
 - **Download YouTube videos/music** in various formats with just one click.
+- **YouTube Multi-Language Audio Support :** Download videos with multiple dubbed audio tracks.
 - **Download entire YouTube playlists** in one click.
 - **Batch download** multiple videos with a single click.
 - **Stream and play YouTube videos** directly online without downloads.
