@@ -1,6 +1,6 @@
 name: viztube
 base: core22
-version: '2025.12.9'
+version: '2025.12.17'
 summary: Download youtube videos, playlist and music audio in full HD formats
 description: VIZTUBE is a powerful GUI application for linux for downloading youtube videos, playlist and music audio in full UHD+ resolutions and supports MP4, WEBM and MP3 formats.
 grade: stable
@@ -58,6 +58,15 @@ plugs:
     default-provider: content-snap-core22
 
 parts:
+  deno:
+    plugin: nil
+    source: https://github.com/denoland/deno/releases/latest/download/deno-x86_64-unknown-linux-gnu.zip
+    source-type: zip
+    override-build: |
+      mkdir -p $SNAPCRAFT_PART_INSTALL/bin
+      cp deno $SNAPCRAFT_PART_INSTALL/bin/deno
+      chmod +x $SNAPCRAFT_PART_INSTALL/bin/deno
+
   snap-launcher:
     plugin: dump
     source: snap_launcher/
