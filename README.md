@@ -45,11 +45,6 @@ VIZTUBE is a powerful **YouTube video downloader** that enables you to download 
 ![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/master/share/screenshots/settings.png?raw=true)
 
 
-**Keywords:**
-
-*YTD Video Downloader, SnapTube, By Click Downloader, Allavsoft, VideoHunter, YouTube to MP3, Download YouTube, SnapDownloader, , YouTube DL, KTUBE, UTube, RedTube, Video Downloader, VideoSolo Inovideo, MP3 Studio, Leawo, iTubeGo, 4K Video Downloader, VideoProc, Y2mate, SaveFrom, YouTube Download, SaveMedia, Addoncrop YouTube Video Downloader, YouTube Video Downloader, BitDownloader, y2mate application, y2mate 2k, y2mate desktop, YouTube dashboard y2mate, Y2mate playlist, Clipgrab, Facebook Video Downloader, Instagram Downloader, TikTok Downloader, YouTube Shorts Downloader, Rumble Video Downloader, Snapchat Downloader, LinkedIn Video Downloader, SoundCloud Downloader, ESPN Videos Downloader, Yahoo Video Downloader, Reddit Video Downloader, Wikimedia and Wikipedia Video Downloader, Brighteon Video Downloader.*
-
-**Hashtags:**
-
-
-#YouTubeDownloader #DownloadYouTubeVideos #HDVideoDownloader #MP3Downloader #VideoDownloaderApp #YouTubePlaylistDownloader #OnlineVideoDownloader #DownloadYouTubeAudio #4KVideoDownloader #FreeVideoDownloader #SnapDownloader #DownloadFacebookVideos #InstagramDownloader #TikTokDownloader #RumbleDownloader #BatchVideoDownload #YouTubeMusicDownloader #NoAdsVideoDownloader #SubtitlesDownloader #YouTubeSearchApp
+<sub><sup>Keywords:
+TD Video Downloader, SnapTube, By Click Downloader, Allavsoft, VideoHunter, YouTube to MP3, Download YouTube, SnapDownloader, , YouTube DL, KTUBE, UTube, RedTube, Video Downloader, VideoSolo Inovideo, MP3 Studio, Leawo, iTubeGo, 4K Video Downloader, VideoProc, Y2mate, SaveFrom, YouTube Download, SaveMedia, Addoncrop YouTube Video Downloader, YouTube Video Downloader, BitDownloader, y2mate application, y2mate 2k, y2mate desktop, YouTube dashboard y2mate, Y2mate playlist, Clipgrab, Facebook Video Downloader, Instagram Downloader, TikTok Downloader, YouTube Shorts Downloader, Rumble Video Downloader, Snapchat Downloader, LinkedIn Video Downloader, SoundCloud Downloader, ESPN Videos Downloader, Yahoo Video Downloader, Reddit Video Downloader, Wikimedia and Wikipedia Video Downloader, Brighteon Video Downloader #YouTubeDownloader #DownloadYouTubeVideos #HDVideoDownloader #MP3Downloader #VideoDownloaderApp #YouTubePlaylistDownloader #OnlineVideoDownloader #DownloadYouTubeAudio #4KVideoDownloader #FreeVideoDownloader #SnapDownloader #DownloadFacebookVideos #InstagramDownloader #TikTokDownloader #RumbleDownloader #BatchVideoDownload #YouTubeMusicDownloader #NoAdsVideoDownloader #SubtitlesDownloader #YouTubeSearchApp
+</sub></sup>
