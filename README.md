@@ -27,21 +27,21 @@ VIZTUBE is a powerful **YouTube video downloader** that enables you to download 
 
 <p align="center">
   <a href="https://snapcraft.io/viztube"><img src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" height="56" alt="Get it from the Snap Store"></a>&nbsp;
-  <a href="https://github.com/rishabh3354/VIZTUBE/releases/latest/download/viztube-x86_64.AppImage"><img src="https://raw.githubusercontent.com/srevinsaju/get-appimage/master/static/badges/get-appimage-branding-blue.png" height="56" alt="Get AppImage"></a>&nbsp;
-  <a href="https://github.com/rishabh3354/VIZTUBE/releases/latest/download/VIZTUBE.exe"><img src="https://user-images.githubusercontent.com/66430340/187172806-a8edd12a-ef58-4a05-96a3-99d7490b42f6.png" height="56" alt="Download for Windows"></a>
+  <a href="https://gitlab.com/WarlordSoftwares/viztube/-/releases"><img src="https://raw.githubusercontent.com/srevinsaju/get-appimage/master/static/badges/get-appimage-branding-blue.png" height="56" alt="Get AppImage"></a>&nbsp;
+  <a href="https://gitlab.com/WarlordSoftwares/viztube/-/releases"><img src="https://user-images.githubusercontent.com/66430340/187172806-a8edd12a-ef58-4a05-96a3-99d7490b42f6.png" height="56" alt="Download for Windows"></a>
 </p>
 
 
 ## Screenshots of VIZTUBE
 
-![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/master/share/screenshots/video_downloader.png?raw=true)
+![VIZTUBE](share/screenshots/video_downloader.png)
 
-![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/master/share/screenshots/video_search.png?raw=true)
+![VIZTUBE](share/screenshots/video_search.png)
 
-![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/master/share/screenshots/playlist_downloader.png?raw=true)
+![VIZTUBE](share/screenshots/playlist_downloader.png)
 
-![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/master/share/screenshots/internet_usage.png?raw=true)
+![VIZTUBE](share/screenshots/internet_usage.png)
 
-![VIZTUBE](https://raw.githubusercontent.com/rishabh3354/VIZTUBE/master/share/screenshots/settings.png?raw=true)
+![VIZTUBE](share/screenshots/settings.png)
 
 
