@@ -85,3 +85,4 @@ parts:
       cp VIZTUBE ${SNAPCRAFT_PART_INSTALL}/bin/viztube
       chmod +x ${SNAPCRAFT_PART_INSTALL}/bin/viztube
       
+
