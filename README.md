@@ -1,19 +1,17 @@
-**ABOUT VIZTUBE:**
+# VIZTUBE
 
-VIZTUBE is a powerful **YouTube video downloader** that enables you to download **videos, playlists, music, and audio** from YouTube and other popular platforms in **HD resolution**. Now supporting **35+ languages**, it's the ideal solution for your video downloading needs.
+VIZTUBE downloads videos, playlists, music and audio from YouTube and other sites in HD. The interface is available in 35+ languages.
 
-**FEATURES:**
+## Features
 
-- Download **video/audio** from websites such as **Facebook, Instagram, TikTok, Rumble, Odysee, Bitchute, Twitter, Twitch, ArteTV**, and more.
-- **Download YouTube videos/music** in various formats with just one click.
-- **YouTube Multi-Language Audio Support :** Download videos with multiple dubbed audio tracks.
-- **Download entire YouTube playlists** in one click.
-- **Batch download** multiple videos with a single click.
-- **Stream and play YouTube videos** directly online without downloads.
-- Supports **YouTube subtitles and closed captions (CC)** download.
-- YouTube search integration with **regional country support**.
-- Completely **ad-free** online streaming experience.
-- Available in **35+ international languages**.
+- Download video or audio from Facebook, Instagram, TikTok, Rumble, Odysee, Bitchute, Twitter, Twitch, ArteTV and more.
+- Download a YouTube video or song in one click, in several formats.
+- Pick one of a video's dubbed audio tracks when it has several.
+- Download a whole YouTube playlist at once.
+- Download several videos at the same time.
+- Stream YouTube videos in the app without downloading them, with no ads.
+- Download YouTube subtitles and closed captions (CC).
+- Search YouTube from the app, with results for your country.
 
 
 <p align="center">
@@ -23,7 +21,7 @@ VIZTUBE is a powerful **YouTube video downloader** that enables you to download 
   <a href="#"><img src="https://img.shields.io/badge/AppImage-Available-00B4F0?style=flat-square&logo=appimage&logoColor=white"></a>
 </p>
 
-### 🚀 Installation
+### Installation
 
 <p align="center">
   <a href="https://snapcraft.io/viztube"><img src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" height="56" alt="Get it from the Snap Store"></a>&nbsp;
@@ -32,7 +30,7 @@ VIZTUBE is a powerful **YouTube video downloader** that enables you to download 
 </p>
 
 
-## Screenshots of VIZTUBE
+## Screenshots
 
 ![VIZTUBE](share/screenshots/video_downloader.png)
 
@@ -43,11 +41,3 @@ VIZTUBE is a powerful **YouTube video downloader** that enables you to download 
 ![VIZTUBE](share/screenshots/internet_usage.png)
 
 ![VIZTUBE](share/screenshots/settings.png)
-
-
-
-
-
-
-
-
